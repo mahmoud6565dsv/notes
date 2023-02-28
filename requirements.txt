@@ -11,7 +11,6 @@ psycopg2-binary==2.9.5
 pypiwin32==223
 python-decouple==3.7
 pytube==12.1.0
-pywin32==305
 soupsieve==2.3.2.post1
 sqlparse==0.4.3
 tzdata==2022.7
